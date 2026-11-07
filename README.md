@@ -1,9 +1,9 @@
 # Gaussian Splat Viewer — QGIS Plugin
 
-A QGIS 3.x plugin for importing, georeferencing, and visualizing
+A QGIS 4.x plugin for importing, georeferencing, and visualizing
 **3D Gaussian Splatting** (3DGS) scenes on the QGIS map canvas.
 
-<img width="1416" height="1227" alt="image" src="https://github.com/user-attachments/assets/ac068464-77fe-4b4e-b032-359989dcbc0a" />
+<img width="2383" height="1083" alt="image" src="https://github.com/user-attachments/assets/d011fb7d-f0b9-4314-a342-8642a2187f06" />
 
 ---
 
