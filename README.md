@@ -30,7 +30,7 @@ Note: this just makes a TOP-DOWN Image of the 3dGS
 1. Download this repository as a zip.
 2. In QGIS  Plugins → Manage and Install Plugins → Install from ZIP. Plugins is installed to the `gaussian_splat_qgis/` folder into your QGIS plugins directory:
    - **Linux/macOS:** `~/.local/share/QGIS/QGIS4/profiles/default/python/plugins/`
-   - **Windows:** `%APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\`
+   - **Windows:** `%APPDATA%\QGIS\QGIS4\profiles\default\python\plugins\`
 3. In QGIS → **Plugins → Manage and Install Plugins → Installed** → enable **Gaussian Splat Viewer**.
 
 ---
